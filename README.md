@@ -1,3 +1,3 @@
 # CSCI_testbox
 
-Contains some test cases for CSCI course project/assignment/lab
+Contains some tentative code for CSCI course project/assignment/lab
